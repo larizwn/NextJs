@@ -25,3 +25,13 @@ npm install -g create-next-app
 
 npx create-next-app nome-do-seu-projeto
 
+## Para integrar o Typescript em seus projetos, você precisará instalar os seguintes pacotes: 
+
+* Utilizando o yarn:
+
+yarn add typescript @types/react @types/node –D
+
+* Utilizando o npm 
+
+npm install typescript @types/react @types/node –D
+
