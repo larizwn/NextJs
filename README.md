@@ -1,6 +1,6 @@
 # Next.Js
 
-<img src="/logo.PNG" />
+<img src="/logo.png" height="80px" />
 
 Next.js é um framework para React. 
 
